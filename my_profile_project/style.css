@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+html{
+  color: white; background-color: whitesmoke ;
+}
+
+#worktag{
+  color: tomato;
+}
+
+.bluetext{
+  color: blue;
+}
+body{
+  font-family: 'Indie Flower', cursive;
+    background-image: url("http://www.trbimg.com/img-52e1bce3/turbine/chi-university-of-illinois-campus-20140123/2048/2048x1365");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+h1{
+  font-family: 'Pinyon Script', cursive;
+}
