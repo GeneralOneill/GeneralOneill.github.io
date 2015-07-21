@@ -2,11 +2,9 @@
 html{
   color: white; background-color: whitesmoke ;
 }
-
 #worktag{
   color: tomato;
 }
-
 .bluetext{
   color: blue;
 }
@@ -21,4 +19,16 @@ body{
 }
 h1{
   font-family: 'Pinyon Script', cursive;
+}
+.whitepad{
+  background-color: white;
+  padding: 5px;
+  border-radius: 3px;
+
+}
+.fleft{
+  float: left;
+}
+#space{
+  height: 360px;
 }
